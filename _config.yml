@@ -250,6 +250,12 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _posts/
 keep_files:
   - CNAME
   - .nojekyll
